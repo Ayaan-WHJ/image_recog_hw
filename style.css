@@ -1,0 +1,15 @@
+body{
+    background: rgb(255,0,0);
+background: linear-gradient(908deg, rgba(255,0,0,1) 0%, rgba(255,183,0,1) 13%, rgba(207,255,0,1) 25%, rgba(1,239,0,1) 37%, rgba(0,255,209,1) 50%, rgba(0,31,255,1) 62%, rgba(235,0,255,1) 75%, rgba(255,36,166,1) 88%, rgba(0,254,255,1) 100%);
+}
+.heading{
+color: blue;
+font-family: cursive;
+}
+p{
+    font-family:fantasy;
+}
+h1{
+    background-color: blue;
+    color:red;  
+}
