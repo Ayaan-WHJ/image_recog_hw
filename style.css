@@ -4,12 +4,15 @@ background: linear-gradient(908deg, rgba(255,0,0,1) 0%, rgba(255,183,0,1) 13%, r
 }
 .heading{
 color: blue;
-font-family: cursive;
+font-family:inherit;
 }
 p{
     font-family:fantasy;
 }
 h1{
-    background-color: blue;
-    color:red;  
+    color:rgb(68, 0, 255);  
+}
+#button1{
+    background-color:black;
+    color: white;
 }
